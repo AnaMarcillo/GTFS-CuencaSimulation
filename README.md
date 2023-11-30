@@ -47,3 +47,7 @@ En caso de aparecer el siguiente error:
 
 Significa que los id's tienen que estar en un formato hexadecimal encerrados entre comillas ("") y la conversión agregó algunos caracteres de más, esto se repite a lo largo de todo el documento "gtfs_pt_vehicles.add.xml", para solucionar este problema simplemente se tiene que reemplazar los caracteres '(' y ',)' por comillas dobles o simples, esto se puede hacer con un buscar y reemplazar desde cualquier editor de texto.
 
+Los archivos se encuentran en:
+https://drive.google.com/drive/folders/1Evu4plSBjqK0Al40snzEA2mdEYQQcfse?usp=sharing
+
+
